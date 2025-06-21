@@ -35,7 +35,7 @@ To develop a *Sales Data Analysis and Forecasting System* that:
 - *Revenue by Product*
 - *Monthly Revenue Forecast with Trend Line*
 
-![Dashboard Preview](./Screenshots/algonive_dashboard_sample.png)
+![Dashboard Preview](./Sale Data Analysis Dashboard.jpg)
 
 ---
 
