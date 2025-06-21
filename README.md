@@ -35,8 +35,9 @@ To develop a *Sales Data Analysis and Forecasting System* that:
 - *Revenue by Product*
 - *Monthly Revenue Forecast with Trend Line*
 
-![Dashboard Preview](./Sale Data Analysis Dashboard.jpg)
+## 📌 Dashboard Overview
 
+![Power BI Dashboard](https://github.com/Prachi005748/Algonive_Sales_Data_Analysis_And_Forcasting/blob/main/Sale%20Data%20Analysis%20Dashboard.jpg)
 ---
 
 ## 🔮 Forecasting
