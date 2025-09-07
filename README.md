@@ -60,6 +60,7 @@ Used *Power BI’s built-in forecasting tool* on the Monthly Revenue Trend chart
 ## 📬 Contact
 
 *Prachi Paliwal*  
+*Gmail*: prachipaliwal745@gmail.com 
 GitHub: [@Prachi005748](https://github.com/Prachi005748)  
 Project Link: [Sales Analysis Repository](https://github.com/Prachi005748/Algonive_Sales_Data_Analysis_And_Forcasting)
 
